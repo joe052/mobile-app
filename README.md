@@ -12,3 +12,5 @@ Ecommerce design with NET MAUI (MVVM Pattern)
 * Borders
 * Color gradient brushes
 * Stepper
+Tools
+Visual studio
