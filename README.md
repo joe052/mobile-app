@@ -1,5 +1,7 @@
 Mobile-app
-# Ecommerce Design
+
+# Ecommerce Design Approach
+
 Ecommerce design with NET MAUI (MVVM Pattern)
 
 ## Features
@@ -24,6 +26,3 @@ Link: https://andreinitescu.github.io/IconFont2Code/
 <img  src="Preview/7.png" width="250" height="520"> &nbsp;&nbsp;&nbsp; 
 <img src="Preview/8.png" width="250" height="520">&nbsp;&nbsp;&nbsp; 
 <img  src="Preview/9.png" width="250" height="520"><br>
-
-## Design Based on
-https://www.uistore.design/items/shopping-ui-kit-for-adobe-xd/
