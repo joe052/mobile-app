@@ -2,8 +2,6 @@ Mobile-app
 # Ecommerce Design
 Ecommerce design with NET MAUI (MVVM Pattern)
 
-Learn More: https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui
-
 ## Features
 * ColletionView
 * SwipeView
